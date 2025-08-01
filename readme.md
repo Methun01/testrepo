@@ -1,1 +1,0 @@
-This is a sample git repo for the purpose of practicing of working with git and github
